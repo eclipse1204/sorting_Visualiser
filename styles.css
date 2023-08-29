@@ -1,0 +1,19 @@
+.title{
+    display: flex;
+    justify-content: center;    
+}
+
+.div_region{
+    display: flex;
+    flex-direction: row;
+}
+
+.box{
+    margin: 2px;
+    background-color: black;
+}
+
+.name{
+    display: flex;
+    justify-content: center;
+}
